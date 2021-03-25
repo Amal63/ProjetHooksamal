@@ -6,6 +6,7 @@ export const MoviesData = [
     rating: 3,
     name: "King kong",
     Date: "janvier 2005",
+    trailer:"https://www.youtube.com/embed/odM92ap8_c0"
   },
 
   {
@@ -15,6 +16,7 @@ export const MoviesData = [
     rating: 2,
     name: "Pray love eat",
     Date: "janvier 2010",
+    trailer:"https://www.youtube.com/embed/mjay5vgIwt4"
   },
   {
     id: Math.random(),
@@ -23,6 +25,7 @@ export const MoviesData = [
     rating: 1,
     name: "eclipse",
     Date: "Avril 2020",
+    trailer:"https://www.youtube.com/embed/kX2DKZcDM-o"
   },
 
   {
@@ -31,6 +34,7 @@ export const MoviesData = [
     rating: 4,
     name: "The gift",
     Date: "janvier 2020",
+    trailer:"https://www.youtube.com/embed/I3IiZU9JBuE"
   },
 
   {
@@ -39,5 +43,6 @@ export const MoviesData = [
     rating: 5,
     name: "Always and forever",
     Date: "janvier 2021",
+    trailer:"https://www.youtube.com/embed/OOU5B-fZXpA"
   },
 ];
